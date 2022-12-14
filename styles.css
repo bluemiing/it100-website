@@ -9,14 +9,6 @@
         src: url(cormorant_bold.ttf);
     }
 
-    div.footer{
-        position: absolute;
-        bottom: 450px;
-        left: 0;
-        image-rendering: crisp-edges;
-        border-image: round;
-    }
-
     .container{
         width: 80%;
         margin: auto;
